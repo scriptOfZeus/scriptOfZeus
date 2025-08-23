@@ -40,10 +40,11 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishabh-kumar-prasad-58a549380/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/?next=%2F)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://github.com/scriptOfZeus)
 
 ---
 
 ⭐ **Feel free to explore my repositories and drop a star if you like them!**
-
