@@ -1,16 +1,47 @@
-## Hi there 👋
+  # Hi there, I'm Rishabh 👋
 
-<!--
-**scriptOfZeus/scriptOfZeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 **2nd-year Computer Science student**
+- 💻 Skilled in **C, C++, HTML, CSS**
+- 🎮 Worked on **Godot Engine** for game development
+- 🌱 Currently learning **AI/ML** and sharpening **DSA in C++**
+- ⚡ Fun fact: I love combining creativity with logic to build unique projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:**  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Currently Learning:**  
+![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![DSA in C++](https://img.shields.io/badge/-DSA-007396?style=flat&logo=codeforces&logoColor=white)
+
+**Tools & Engines:**  
+![Godot Engine](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 🔥 Projects
+- 🎮 **[Godot Game](https://github.com/your-username/my-godot-game)** – A simple game built using Godot Engine
+- 🤖 **[AI/ML Practice](https://github.com/your-username/ml-practice)** – My journey into Machine Learning
+- *(More coming soon!)*
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://your-portfolio-link)
+
+
+
