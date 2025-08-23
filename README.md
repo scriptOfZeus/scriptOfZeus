@@ -1,4 +1,4 @@
-  # Hi there, I'm Rishabh 👋
+# Hi there, I'm Rishabh (aka scriptOfZeus) 👋
 
 ## 🚀 About Me
 - 🎓 **2nd-year Computer Science student**
@@ -27,21 +27,23 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=scriptOfZeus&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptOfZeus&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Projects
-- 🎮 **[Godot Game](https://github.com/your-username/my-godot-game)** – A simple game built using Godot Engine
-- 🤖 **[AI/ML Practice](https://github.com/your-username/ml-practice)** – My journey into Machine Learning
+- 🎮 **[Godot Game](https://github.com/scriptOfZeus/my-godot-game)** – A simple game built using Godot Engine
+- 🤖 **[AI/ML Practice](https://github.com/scriptOfZeus/ml-practice)** – My journey into Machine Learning
 - *(More coming soon!)*
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://github.com/scriptOfZeus)
 
+---
 
+⭐ **Feel free to explore my repositories and drop a star if you like them!**
 
